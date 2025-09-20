@@ -1,2 +1,4 @@
 # D0026D
-Laboration kursen D0026D LTU
+Laboration i kursen D0026D - Datorsystemadministration på LTU Skellefteå.
+
+Kurs där vi testar på olika program och verktyg för att administrera datorsystem.
